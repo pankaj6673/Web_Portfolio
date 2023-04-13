@@ -1,5 +1,5 @@
 # My Web portfolio using the react 
-Here the website is built using React Native and Tailwind CSS. Tailwind is something new for me as I was used to using simple CSS it and importing it to my html file. However, in this case I could style the element on the same file without going back to specific css file.
+Here the website is built using React Native and Tailwind CSS. Tailwind is something new for me as I was used to using simple CSS and importing it to my HTML file. However, using Tailwind I could style the element on the same file without going back to a specific CSS file.
 
 ## Available Scripts
 
