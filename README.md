@@ -14,7 +14,7 @@ The page will reload if you make edits.\
 
 ## OR 
 
-Click here my-portfolio-97ps.web.app/ 
+Click here https://my-portfolio-97ps.web.app/
 
 
 
